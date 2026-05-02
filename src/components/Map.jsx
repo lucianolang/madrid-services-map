@@ -55,11 +55,11 @@ const MapComponent = ({ onSelectService }) => {
   const [userLocation, setUserLocation] = useState(null);
 
   useEffect(() => {
-    fetch('/data/fuentes_de_agua_madrid.geojson')
+    fetch(`${import.meta.env.BASE_URL}data/fuentes_de_agua_madrid.geojson`)
       .then(res => res.json())
       .then(data => setFountains(data));
     
-    fetch('/data/aseos_publicos_madrid.geojson')
+    fetch(`${import.meta.env.BASE_URL}data/aseos_publicos_madrid.geojson`)
       .then(res => res.json())
       .then(data => setToilets(data));
   }, []);
