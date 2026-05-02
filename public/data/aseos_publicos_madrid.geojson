@@ -1,0 +1,3146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7091287,
+          40.4184554
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020035ASW",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "PLAZA",
+        "DIRECCION": "ISABEL II",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "439839.85",
+        "COORD UTM ETRS89 Y": "4474444.74",
+        "FECHA PUESTA EN SERVICIO": "16/01/2017",
+        "LATITUD": "40.4184554",
+        "LONGITUD": "-3.7091287",
+        "NOMBRE": "PLAZA ISABEL II,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692684,
+          40.4085893
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020034ASW",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "PLAZA",
+        "DIRECCION": "EMPERADOR CARLOS V",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "441226.39",
+        "COORD UTM ETRS89 Y": "4473338.55",
+        "FECHA PUESTA EN SERVICIO": "19/12/2016",
+        "LATITUD": "40.4085893",
+        "LONGITUD": "-3.692684",
+        "NOMBRE": "PLAZA EMPERADOR CARLOS V,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64748,
+          40.433804
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020037AS",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE",
+        "DIRECCION": "VIRGEN DEL SAGRARIO",
+        "NUMERO": "3",
+        "COORD UTM ETRS89 X": "445079.95",
+        "COORD UTM ETRS89 Y": "4476185.57",
+        "FECHA PUESTA EN SERVICIO": "17/04/2024",
+        "LATITUD": "40.433804",
+        "LONGITUD": "-3.647480",
+        "NOMBRE": "CALLE VIRGEN DEL SAGRARIO,3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.721598,
+          40.4170173
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020059AS",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "PARQUE",
+        "DIRECCION": "MADRID RIO",
+        "ANT/DES/ESQ. ": "CERCANO A QUIOSCO \"BONAPARTE\"",
+        "COORD UTM ETRS89 X": "438780.68",
+        "COORD UTM ETRS89 Y": "4474293.68",
+        "FECHA PUESTA EN SERVICIO": "10/07/2017",
+        "LATITUD": "40.4170173",
+        "LONGITUD": "-3.721598",
+        "NOMBRE": "PARQUE MADRID RIO,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6924174,
+          40.4216722
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020022AS",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "PASEO",
+        "DIRECCION": "RECOLETOS",
+        "NUMERO": "17",
+        "COORD UTM ETRS89 X": "441260.39",
+        "COORD UTM ETRS89 Y": "4474790.57",
+        "FECHA PUESTA EN SERVICIO": "08/12/2017",
+        "LATITUD": "40.4216722",
+        "LONGITUD": "-3.6924174",
+        "NOMBRE": "PASEO RECOLETOS,17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6940378,
+          40.4146323
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020093AS",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "PASEO",
+        "DIRECCION": "PRADO",
+        "NUMERO": "10",
+        "COORD UTM ETRS89 X": "441116.79",
+        "COORD UTM ETRS89 Y": "4474010.22",
+        "FECHA PUESTA EN SERVICIO": "31/10/2018",
+        "LATITUD": "40.4146323",
+        "LONGITUD": "-3.6940378",
+        "NOMBRE": "PASEO PRADO,10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6916011,
+          40.4253813
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020054AS",
+        "CODIGO J.M.": "1",
+        "DISTRITO": "CENTRO",
+        "VIAL": "CALLE",
+        "DIRECCION": "GENOVA",
+        "NUMERO": "29",
+        "COORD UTM ETRS89 X": "441332.86",
+        "COORD UTM ETRS89 Y": "4475201.73",
+        "FECHA PUESTA EN SERVICIO": "14/02/2019",
+        "LATITUD": "40.4253813",
+        "LONGITUD": "-3.6916011",
+        "NOMBRE": "CALLE GENOVA,29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7030565,
+          40.4046935
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020027ASW",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "EMBAJADORES",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "440342.85",
+        "COORD UTM ETRS89 Y": "4472913.06",
+        "FECHA PUESTA EN SERVICIO": "19/01/2017",
+        "LATITUD": "40.4046935",
+        "LONGITUD": "-3.7030565",
+        "NOMBRE": "GLORIETA EMBAJADORES,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6867629,
+          40.4016292
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020003AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "MENDEZ ALVARO ",
+        "NUMERO": "5",
+        "COORD UTM ETRS89 X": "441722.79",
+        "COORD UTM ETRS89 Y": "4472562.06",
+        "FECHA PUESTA EN SERVICIO": "19/01/2017",
+        "LATITUD": "40.4016292",
+        "LONGITUD": "-3.6867629",
+        "NOMBRE": "CALLE MENDEZ ALVARO ,5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6943594,
+          40.40072
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020002AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "FERROCARRIL",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "441077.37",
+        "COORD UTM ETRS89 Y": "4472466.17",
+        "FECHA PUESTA EN SERVICIO": "30/10/2017",
+        "LATITUD": "40.40072",
+        "LONGITUD": "-3.6943594",
+        "NOMBRE": "CALLE FERROCARRIL,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7068797,
+          40.3974147
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020006AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "PASEO",
+        "DIRECCION": "YESERIAS",
+        "NUMERO": "44",
+        "COORD UTM ETRS89 X": "440011.97",
+        "COORD UTM ETRS89 Y": "4472107.71",
+        "FECHA PUESTA EN SERVICIO": "06/11/2017",
+        "LATITUD": "40.3974147",
+        "LONGITUD": "-3.7068797",
+        "NOMBRE": "PASEO YESERIAS,44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7049761,
+          40.4012178
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020009AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "PASEO",
+        "DIRECCION": "JUAN ANTONIO VALLEJO-NÁJERA",
+        "NUMERO": "15",
+        "COORD UTM ETRS89 X": "440176.88",
+        "COORD UTM ETRS89 Y": "4472528.56",
+        "FECHA PUESTA EN SERVICIO": "20/11/2017",
+        "LATITUD": "40.4012178",
+        "LONGITUD": "-3.7049761",
+        "NOMBRE": "PASEO JUAN ANTONIO VALLEJO-NÁJERA,15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7001344,
+          40.3946613
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020007AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "PASEO",
+        "DIRECCION": "CHOPERA",
+        "NUMERO": "33",
+        "COORD UTM ETRS89 X": "440581.98",
+        "COORD UTM ETRS89 Y": "4471797.53",
+        "FECHA PUESTA EN SERVICIO": "23/11/2017",
+        "LATITUD": "40.3946613",
+        "LONGITUD": "-3.7001344",
+        "NOMBRE": "PASEO CHOPERA,33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6948927,
+          40.390505
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020008AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "MAESTRO ARBOS",
+        "NUMERO": "3",
+        "ANT/DES/ESQ. ": "PLAZA LEGAZPI",
+        "COORD UTM ETRS89 X": "441023.20",
+        "COORD UTM ETRS89 Y": "4471332.67",
+        "FECHA PUESTA EN SERVICIO": "24/11/2017",
+        "LATITUD": "40.390505",
+        "LONGITUD": "-3.6948927",
+        "NOMBRE": "CALLE MAESTRO ARBOS,3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6999164,
+          40.4009397
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020004AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "SANTA MARIA DE LA CABEZA",
+        "NUMERO": "13",
+        "COORD UTM ETRS89 X": "440606.00",
+        "COORD UTM ETRS89 Y": "4472494.28",
+        "FECHA PUESTA EN SERVICIO": "19/12/2017",
+        "LATITUD": "40.4009397",
+        "LONGITUD": "-3.6999164",
+        "NOMBRE": "GLORIETA SANTA MARIA DE LA CABEZA,13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6927886,
+          40.4070824
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020001ASW",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "MENDEZ ALVARO ",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "441216.20",
+        "COORD UTM ETRS89 Y": "4473171.35",
+        "FECHA PUESTA EN SERVICIO": "07/03/2018",
+        "LATITUD": "40.4070824",
+        "LONGITUD": "-3.6927886",
+        "NOMBRE": "CALLE MENDEZ ALVARO ,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6811993,
+          40.3928298
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020055AS",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "VILLARROBLEDO",
+        "NUMERO": "15",
+        "COORD UTM ETRS89 X": "442187.38",
+        "COORD UTM ETRS89 Y": "4471581.68",
+        "FECHA PUESTA EN SERVICIO": "13/03/2018",
+        "LATITUD": "40.3928298",
+        "LONGITUD": "-3.6811993",
+        "NOMBRE": "CALLE VILLARROBLEDO,15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7117334,
+          40.4060911
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020025ASW",
+        "CODIGO J.M.": "2",
+        "DISTRITO": "ARGANZUELA",
+        "VIAL": "CALLE",
+        "DIRECCION": "TOLEDO",
+        "NUMERO": "127",
+        "COORD UTM ETRS89 X": "439607.82",
+        "COORD UTM ETRS89 Y": "4473074.09",
+        "FECHA PUESTA EN SERVICIO": "03/04/2018",
+        "LATITUD": "40.4060911",
+        "LONGITUD": "-3.7117334",
+        "NOMBRE": "CALLE TOLEDO,127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6893715,
+          40.4076676
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020039AS",
+        "CODIGO J.M.": "3",
+        "DISTRITO": "RETIRO",
+        "VIAL": "PASEO",
+        "DIRECCION": "INFANTA ISABEL",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "441506.66",
+        "COORD UTM ETRS89 Y": "4473234.04",
+        "FECHA PUESTA EN SERVICIO": "08/05/2017",
+        "LATITUD": "40.4076676",
+        "LONGITUD": "-3.6893715",
+        "NOMBRE": "PASEO INFANTA ISABEL,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6700663,
+          40.4061607
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020094AS",
+        "CODIGO J.M.": "3",
+        "DISTRITO": "RETIRO",
+        "VIAL": "PLAZA",
+        "DIRECCION": "CONDE DE CASAL",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "443143.45",
+        "COORD UTM ETRS89 Y": "4473054.18",
+        "FECHA PUESTA EN SERVICIO": "29/11/2017",
+        "LATITUD": "40.4061607",
+        "LONGITUD": "-3.6700663",
+        "NOMBRE": "PLAZA CONDE DE CASAL,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.675845,
+          40.4113669
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020092AS",
+        "CODIGO J.M.": "3",
+        "DISTRITO": "RETIRO",
+        "VIAL": "PLAZA",
+        "DIRECCION": "NIÑO JESUS",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "442657.53",
+        "COORD UTM ETRS89 Y": "4473635.80",
+        "FECHA PUESTA EN SERVICIO": "17/03/2018",
+        "LATITUD": "40.4113669",
+        "LONGITUD": "-3.675845",
+        "NOMBRE": "PLAZA NIÑO JESUS,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6628341,
+          40.4159188
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020049AS",
+        "CODIGO J.M.": "3",
+        "DISTRITO": "RETIRO",
+        "VIAL": "CALLE",
+        "DIRECCION": "JUAN ESPLANDIU",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "443765.25",
+        "COORD UTM ETRS89 Y": "4474132.69",
+        "FECHA PUESTA EN SERVICIO": "04/07/2018",
+        "LATITUD": "40.4159188",
+        "LONGITUD": "-3.6628341",
+        "NOMBRE": "CALLE JUAN ESPLANDIU,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6699959,
+          40.4145033
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020029AS",
+        "CODIGO J.M.": "3",
+        "DISTRITO": "RETIRO",
+        "VIAL": "CALLE",
+        "DIRECCION": "DOCTOR ESQUERDO",
+        "NUMERO": "66",
+        "COORD UTM ETRS89 X": "443156.45",
+        "COORD UTM ETRS89 Y": "4473980.16",
+        "FECHA PUESTA EN SERVICIO": "01/11/2018",
+        "LATITUD": "40.4145033",
+        "LONGITUD": "-3.6699959",
+        "NOMBRE": "CALLE DOCTOR ESQUERDO,66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6881695,
+          40.4252537
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020097ASW",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA",
+        "VIAL": "CALLE",
+        "DIRECCION": "SERRANO",
+        "NUMERO": "32",
+        "COORD UTM ETRS89 X": "441623.85",
+        "COORD UTM ETRS89 Y": "4475185.29",
+        "FECHA PUESTA EN SERVICIO": "14/12/2016",
+        "LATITUD": "40.4252537",
+        "LONGITUD": "-3.6881695",
+        "NOMBRE": "CALLE SERRANO,32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6759187,
+          40.4238654
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020095ASW",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA           ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "FELIPE II",
+        "NUMERO": "12",
+        "COORD UTM ETRS89 X": "442661.89",
+        "COORD UTM ETRS89 Y": "4475023.17",
+        "FECHA PUESTA EN SERVICIO": "05/12/2016",
+        "LATITUD": "40.4238654",
+        "LONGITUD": "-3.6759187",
+        "NOMBRE": "AVENIDA FELIPE II,12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6689932,
+          40.4286194
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020099ASW",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA",
+        "VIAL": "PLAZA",
+        "DIRECCION": "MANUEL BECERRA",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "443253.38",
+        "COORD UTM ETRS89 Y": "4475546.39",
+        "FECHA PUESTA EN SERVICIO": "08/05/2017",
+        "LATITUD": "40.4286194",
+        "LONGITUD": "-3.6689932",
+        "NOMBRE": "PLAZA MANUEL BECERRA,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.682382,
+          40.4304627
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020026AS",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA",
+        "VIAL": "CALLE",
+        "DIRECCION": "NUÑEZ DE BALBOA",
+        "NUMERO": "70",
+        "COORD UTM ETRS89 X": "442119.26",
+        "COORD UTM ETRS89 Y": "4475759.69",
+        "FECHA PUESTA EN SERVICIO": "20/03/2018",
+        "LATITUD": "40.4304627",
+        "LONGITUD": "-3.682382",
+        "NOMBRE": "CALLE NUÑEZ DE BALBOA,70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6614575,
+          40.4326009
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020098AS",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "TOREROS",
+        "NUMERO": "79",
+        "COORD UTM ETRS89 X": "443895.90",
+        "COORD UTM ETRS89 Y": "4475983.52",
+        "FECHA PUESTA EN SERVICIO": "04/02/2019",
+        "LATITUD": "40.4326009",
+        "LONGITUD": "-3.6614575",
+        "NOMBRE": "AVENIDA TOREROS,79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6887855,
+          40.4655237
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020047AS",
+        "CODIGO J.M.": "5",
+        "DISTRITO": "CHAMARTIN",
+        "VIAL": "PLAZA",
+        "DIRECCION": "CASTILLA",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "441606.46",
+        "COORD UTM ETRS89 Y": "4479655.68",
+        "FECHA PUESTA EN SERVICIO": "19/01/2017",
+        "LATITUD": "40.4655237",
+        "LONGITUD": "-3.6887855",
+        "NOMBRE": "PLAZA CASTILLA,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6769943,
+          40.4580987
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020048AS",
+        "CODIGO J.M.": "5",
+        "DISTRITO": "CHAMARTIN",
+        "VIAL": "CALLE",
+        "DIRECCION": "PRINCIPE DE VERGARA",
+        "NUMERO": "275",
+        "COORD UTM ETRS89 X": "442599.77",
+        "COORD UTM ETRS89 Y": "4478823.76",
+        "FECHA PUESTA EN SERVICIO": "20/11/2017",
+        "LATITUD": "40.4580987",
+        "LONGITUD": "-3.6769943",
+        "NOMBRE": "CALLE PRINCIPE DE VERGARA,275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.676971,
+          40.4493387
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020043AS",
+        "CODIGO J.M.": "5",
+        "DISTRITO": "CHAMARTIN",
+        "VIAL": "CALLE",
+        "DIRECCION": "SAN ERNESTO",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "442594.29",
+        "COORD UTM ETRS89 Y": "4477851.39",
+        "FECHA PUESTA EN SERVICIO": "08/03/2018",
+        "LATITUD": "40.4493387",
+        "LONGITUD": "-3.676971",
+        "NOMBRE": "CALLE SAN ERNESTO,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6749101,
+          40.4439733
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020044AS",
+        "CODIGO J.M.": "5",
+        "DISTRITO": "CHAMARTIN",
+        "VIAL": "PLAZA",
+        "DIRECCION": "PROSPERIDAD",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "442764.50",
+        "COORD UTM ETRS89 Y": "4477254.49",
+        "FECHA PUESTA EN SERVICIO": "23/03/2018",
+        "LATITUD": "40.4439733",
+        "LONGITUD": "-3.6749101",
+        "NOMBRE": "PLAZA PROSPERIDAD,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7109256,
+          40.468885
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020111AS",
+        "CODIGO J.M.": "6",
+        "DISTRITO": "TETUAN",
+        "VIAL": "PARQUE",
+        "DIRECCION": "RODRIGUEZ SAHAGUN",
+        "NUMERO": "S/N",
+        "COORD UTM ETRS89 X": "439732.46",
+        "COORD UTM ETRS89 Y": "4480043.66",
+        "FECHA PUESTA EN SERVICIO": "14/12/2016",
+        "LATITUD": "40.468885",
+        "LONGITUD": "-3.7109256",
+        "NOMBRE": "PARQUE RODRIGUEZ SAHAGUN,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7008622,
+          40.4719278
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020106AS",
+        "CODIGO J.M.": "6",
+        "DISTRITO": "TETUAN",
+        "VIAL": "PASEO",
+        "DIRECCION": "DIRECCION",
+        "NUMERO": "374",
+        "COORD UTM ETRS89 X": "440588.26",
+        "COORD UTM ETRS89 Y": "4480374.59",
+        "FECHA PUESTA EN SERVICIO": "29/12/2017",
+        "LATITUD": "40.4719278",
+        "LONGITUD": "-3.7008622",
+        "NOMBRE": "PASEO DIRECCION,374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6955925,
+          40.4492969
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020110AS",
+        "CODIGO J.M.": "6",
+        "DISTRITO": "TETUAN",
+        "VIAL": "CALLE",
+        "DIRECCION": "BASILICA",
+        "NUMERO": "15",
+        "COORD UTM ETRS89 X": "441015.18",
+        "COORD UTM ETRS89 Y": "4477859.02",
+        "FECHA PUESTA EN SERVICIO": "06/02/2018",
+        "LATITUD": "40.4492969",
+        "LONGITUD": "-3.6955925",
+        "NOMBRE": "CALLE BASILICA,15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7145327,
+          40.4334665
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020051AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "CALLE",
+        "DIRECCION": "ANDRES MELLADO",
+        "NUMERO": "34",
+        "COORD UTM ETRS89 X": "439394.86",
+        "COORD UTM ETRS89 Y": "4476114.67",
+        "FECHA PUESTA EN SERVICIO": "07/12/2017",
+        "LATITUD": "40.4334665",
+        "LONGITUD": "-3.7145327",
+        "NOMBRE": "CALLE ANDRES MELLADO,34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7049527,
+          40.4468393
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020108AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "REINA VICTORIA",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "440219.27",
+        "COORD UTM ETRS89 Y": "4477592.52",
+        "FECHA PUESTA EN SERVICIO": "22/02/2018",
+        "LATITUD": "40.4468393",
+        "LONGITUD": "-3.7049527",
+        "NOMBRE": "AVENIDA REINA VICTORIA,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7043811,
+          40.4422822
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020030AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "PLAZA",
+        "DIRECCION": "JUAN ZORRILLA",
+        "NUMERO": "4",
+        "COORD UTM ETRS89 X": "440263.71",
+        "COORD UTM ETRS89 Y": "4477086.29",
+        "FECHA PUESTA EN SERVICIO": "19/03/2018",
+        "LATITUD": "40.4422822",
+        "LONGITUD": "-3.7043811",
+        "NOMBRE": "PLAZA JUAN ZORRILLA,4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6948701,
+          40.4413147
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020112AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "PLAZA",
+        "DIRECCION": "SAN JUAN DE LA CRUZ",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "441069.47",
+        "COORD UTM ETRS89 Y": "4476972.51",
+        "FECHA PUESTA EN SERVICIO": "04/04/2018",
+        "LATITUD": "40.4413147",
+        "LONGITUD": "-3.6948701",
+        "NOMBRE": "PLAZA SAN JUAN DE LA CRUZ,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7042522,
+          40.4331867
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020052AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "QUEVEDO",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "440266.59",
+        "COORD UTM ETRS89 Y": "4476076.61",
+        "FECHA PUESTA EN SERVICIO": "12/06/2018",
+        "LATITUD": "40.4331867",
+        "LONGITUD": "-3.7042522",
+        "NOMBRE": "GLORIETA QUEVEDO,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7053533,
+          40.4297261
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020096AS",
+        "CODIGO J.M.": "7",
+        "DISTRITO": "CHAMBERI",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "RUIZ JIMENEZ",
+        "NUMERO": "5",
+        "COORD UTM ETRS89 X": "440170.13",
+        "COORD UTM ETRS89 Y": "4475693.23",
+        "FECHA PUESTA EN SERVICIO": "15/10/2018",
+        "LATITUD": "40.4297261",
+        "LONGITUD": "-3.7053533",
+        "NOMBRE": "GLORIETA RUIZ JIMENEZ,5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7010354,
+          40.4949458
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020064AS",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "CALLE",
+        "DIRECCION": "COSTA BRAVA",
+        "NUMERO": "13",
+        "COORD UTM ETRS89 X": "440593.87",
+        "COORD UTM ETRS89 Y": "4482929.73",
+        "FECHA PUESTA EN SERVICIO": "11/08/2017",
+        "LATITUD": "40.4949458",
+        "LONGITUD": "-3.7010354",
+        "NOMBRE": "CALLE COSTA BRAVA,13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7121944,
+          40.4800577
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020036ASW",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "PASEO",
+        "DIRECCION": "VAGUADA",
+        "NUMERO": "13",
+        "COORD UTM ETRS89 X": "439634.91",
+        "COORD UTM ETRS89 Y": "4481284.71",
+        "FECHA PUESTA EN SERVICIO": "05/12/2017",
+        "LATITUD": "40.4800577",
+        "LONGITUD": "-3.7121944",
+        "NOMBRE": "PASEO VAGUADA,13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7099814,
+          40.5047279
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020107AS",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MONASTERIO DEL ESCORIAL",
+        "NUMERO": "3",
+        "COORD UTM ETRS89 X": "439844.52",
+        "COORD UTM ETRS89 Y": "4484021.61",
+        "FECHA PUESTA EN SERVICIO": "02/03/2018",
+        "LATITUD": "40.5047279",
+        "LONGITUD": "-3.7099814",
+        "NOMBRE": "AVENIDA MONASTERIO DEL ESCORIAL,3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7756836,
+          40.5190605
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020065AS",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "LA GUARDIA",
+        "NUMERO": "4",
+        "COORD UTM ETRS89 X": "434291.63",
+        "COORD UTM ETRS89 Y": "4485659.44",
+        "FECHA PUESTA EN SERVICIO": "09/05/2018",
+        "LATITUD": "40.5190605",
+        "LONGITUD": "-3.7756836",
+        "NOMBRE": "AVENIDA LA GUARDIA,4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7063874,
+          40.4834478
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020068AS",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "CALLE",
+        "DIRECCION": "GINZO DE LIMIA",
+        "NUMERO": "47",
+        "COORD UTM ETRS89 X": "440130.12",
+        "COORD UTM ETRS89 Y": "4481657.06",
+        "FECHA PUESTA EN SERVICIO": "05/07/2018",
+        "LATITUD": "40.4834478",
+        "LONGITUD": "-3.7063874",
+        "NOMBRE": "CALLE GINZO DE LIMIA,47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.689578,
+          40.4802895
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020033AS",
+        "CODIGO J.M.": "8",
+        "DISTRITO": "FUENCARRAL - EL PARDO",
+        "VIAL": "CALLE",
+        "DIRECCION": "PEDRO RICO",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "441552.07",
+        "COORD UTM ETRS89 Y": "4481295.21",
+        "FECHA PUESTA EN SERVICIO": "24/11/2018",
+        "LATITUD": "40.4802895",
+        "LONGITUD": "-3.689578",
+        "NOMBRE": "CALLE PEDRO RICO,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7185074,
+          40.4254088
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020081ASW",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "PASEO",
+        "DIRECCION": "PINTOR ROSALES",
+        "NUMERO": "14",
+        "COORD UTM ETRS89 X": "439050.46",
+        "COORD UTM ETRS89 Y": "4475223.00",
+        "FECHA PUESTA EN SERVICIO": "16/01/2017",
+        "LATITUD": "40.4254088",
+        "LONGITUD": "-3.7185074",
+        "NOMBRE": "PASEO PINTOR ROSALES,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7093494,
+          40.463713
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020113AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "CALLE",
+        "DIRECCION": "SANCHEZ PRECIADO",
+        "NUMERO": "75",
+        "COORD UTM ETRS89 X": "439861.47",
+        "COORD UTM ETRS89 Y": "4479468.49",
+        "FECHA PUESTA EN SERVICIO": "05/02/2018",
+        "LATITUD": "40.463713",
+        "LONGITUD": "-3.7093494",
+        "NOMBRE": "CALLE SANCHEZ PRECIADO,75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7170143,
+          40.4482191
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020078AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "PASEO",
+        "DIRECCION": "JUAN XXIII",
+        "NUMERO": "13",
+        "COORD UTM ETRS89 X": "439197.67",
+        "COORD UTM ETRS89 Y": "4477753.91",
+        "FECHA PUESTA EN SERVICIO": "01/03/2018",
+        "LATITUD": "40.4482191",
+        "LONGITUD": "-3.7170143",
+        "NOMBRE": "PASEO JUAN XXIII,13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7209545,
+          40.4636248
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020090AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "CALLE",
+        "DIRECCION": "ISLA DE OZA",
+        "NUMERO": "82",
+        "COORD UTM ETRS89 X": "438877.50",
+        "COORD UTM ETRS89 Y": "4479466.67",
+        "FECHA PUESTA EN SERVICIO": "21/03/2018",
+        "LATITUD": "40.4636248",
+        "LONGITUD": "-3.7209545",
+        "NOMBRE": "CALLE ISLA DE OZA,82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7199179,
+          40.4349187
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020080AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "PASEO",
+        "DIRECCION": "MORET",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "438939.41",
+        "COORD UTM ETRS89 Y": "4476279.57",
+        "FECHA PUESTA EN SERVICIO": "26/04/2018",
+        "LATITUD": "40.4349187",
+        "LONGITUD": "-3.7199179",
+        "NOMBRE": "PASEO MORET,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7207892,
+          40.4207586
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020040AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "SAN VICENTE",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "438852.69",
+        "COORD UTM ETRS89 Y": "4474708.40",
+        "FECHA PUESTA EN SERVICIO": "26/04/2018",
+        "LATITUD": "40.4207586",
+        "LONGITUD": "-3.7207892",
+        "NOMBRE": "GLORIETA  SAN VICENTE, 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7523537,
+          40.4073897
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020076AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "VILLAMANIN",
+        "NUMERO": "31",
+        "COORD UTM ETRS89 X": "436162.29",
+        "COORD UTM ETRS89 Y": "4473246.79",
+        "FECHA PUESTA EN SERVICIO": "24/05/2021",
+        "LATITUD": "40.4073897",
+        "LONGITUD": "-3.7523537",
+        "NOMBRE": "CALLE VILLAMANIN, 31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7454067,
+          40.4046821
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020073AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "HIGUERAS",
+        "NUMERO": "49",
+        "COORD UTM ETRS89 X": "436749.22",
+        "COORD UTM ETRS89 Y": "4472941.24",
+        "FECHA PUESTA EN SERVICIO": "06/11/2017",
+        "LATITUD": "40.4046821",
+        "LONGITUD": "-3.7454067",
+        "NOMBRE": "CALLE HIGUERAS,49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7448944,
+          40.3991105
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020063AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "CUART DE POBLET",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "436787.48",
+        "COORD UTM ETRS89 Y": "4472322.43",
+        "FECHA PUESTA EN SERVICIO": "14/12/2017",
+        "LATITUD": "40.3991105",
+        "LONGITUD": "-3.7448944",
+        "NOMBRE": "CALLE CUART DE POBLET,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.724084,
+          40.4135719
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020053AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "PASEO",
+        "DIRECCION": "ERMITA DEL SANTO",
+        "NUMERO": "2",
+        "ANT/DES/ESQ. ": "CERCANO A QUIOSCO \"SEGOVIA\"",
+        "COORD UTM ETRS89 X": "438566.64",
+        "COORD UTM ETRS89 Y": "4473912.97",
+        "FECHA PUESTA EN SERVICIO": "13/02/2018",
+        "LATITUD": "40.4135719",
+        "LONGITUD": "-3.724084",
+        "NOMBRE": "PASEO ERMITA DEL SANTO,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7553615,
+          40.4005847
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020067AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "CONCEJAL FRANCISCO JOSE JIMENEZ MARTIN",
+        "NUMERO": "174",
+        "COORD UTM ETRS89 X": "435900.62",
+        "COORD UTM ETRS89 Y": "4472493.61",
+        "FECHA PUESTA EN SERVICIO": "15/02/2018",
+        "LATITUD": "40.4005847",
+        "LONGITUD": "-3.7553615",
+        "NOMBRE": "CALLE CONCEJAL FRANCISCO JOSE JIMENEZ MARTIN,174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7653924,
+          40.3781145
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020074AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "BLAS CABRERA",
+        "NUMERO": "141",
+        "COORD UTM ETRS89 X": "435027.81",
+        "COORD UTM ETRS89 Y": "4470006.75",
+        "FECHA PUESTA EN SERVICIO": "21/02/2018",
+        "LATITUD": "40.3781145",
+        "LONGITUD": "-3.7653924",
+        "NOMBRE": "CALLE BLAS CABRERA,141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7802599,
+          40.3813979
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020071AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "LAS AGUILAS",
+        "NUMERO": "76",
+        "COORD UTM ETRS89 X": "433768.95",
+        "COORD UTM ETRS89 Y": "4470382.23",
+        "FECHA PUESTA EN SERVICIO": "17/04/2018",
+        "LATITUD": "40.3813979",
+        "LONGITUD": "-3.7802599",
+        "NOMBRE": "AVENIDA LAS AGUILAS,76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7582951,
+          40.3940087
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020045AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "VALMOJADO",
+        "NUMERO": "99",
+        "COORD UTM ETRS89 X": "435645.41",
+        "COORD UTM ETRS89 Y": "4471765.80",
+        "FECHA PUESTA EN SERVICIO": "18/02/2019",
+        "LATITUD": "40.3940087",
+        "LONGITUD": "-3.7582951",
+        "NOMBRE": "CALLE VALMOJADO,99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7603104,
+          40.3858994
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020070AS",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "OCAÑA",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "435466.64",
+        "COORD UTM ETRS89 Y": "4470867.15",
+        "FECHA PUESTA EN SERVICIO": "28/02/2019",
+        "LATITUD": "40.3858994",
+        "LONGITUD": "-3.7603104",
+        "NOMBRE": "CALLE OCAÑA,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7576782,
+          40.3628671
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020014AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "PESETA",
+        "NUMERO": "47",
+        "COORD UTM ETRS89 X": "435668.15",
+        "COORD UTM ETRS89 Y": "4468308.67",
+        "FECHA PUESTA EN SERVICIO": "06/11/2017",
+        "LATITUD": "40.3628671",
+        "LONGITUD": "-3.7576782",
+        "NOMBRE": "AVENIDA PESETA,47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7128996,
+          40.3975885
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020013AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "PARQUE",
+        "DIRECCION": "MADRID RIO",
+        "ANT/DES/ESQ. ": "CERCANO A QUIOSCO \"MONTSERRAT\"",
+        "COORD UTM ETRS89 X": "439501.25",
+        "COORD UTM ETRS89 Y": "4472131.10",
+        "FECHA PUESTA EN SERVICIO": "06/11/2017",
+        "LATITUD": "40.3975885",
+        "LONGITUD": "-3.7128996",
+        "NOMBRE": "PARQUE MADRID RIO,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7387518,
+          40.3734654
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020109AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "EURO",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "437284.97",
+        "COORD UTM ETRS89 Y": "4469471.47",
+        "FECHA PUESTA EN SERVICIO": "13/11/2017",
+        "LATITUD": "40.3734654",
+        "LONGITUD": "-3.7387518",
+        "NOMBRE": "AVENIDA EURO,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7189324,
+          40.3849715
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020102AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "OPORTO",
+        "NUMERO": "4",
+        "COORD UTM ETRS89 X": "438977.90",
+        "COORD UTM ETRS89 Y": "4470734.77",
+        "FECHA PUESTA EN SERVICIO": "20/12/2017",
+        "LATITUD": "40.3849715",
+        "LONGITUD": "-3.7189324",
+        "NOMBRE": "AVENIDA OPORTO,4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7189428,
+          40.3993924
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020010AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MANZANARES",
+        "NUMERO": "108",
+        "ANT/DES/ESQ. ": "JUNTO A PASEO DE SAN ILLAN",
+        "COORD UTM ETRS89 X": "438990.03",
+        "COORD UTM ETRS89 Y": "4472335.49",
+        "FECHA PUESTA EN SERVICIO": "25/01/2018",
+        "LATITUD": "40.3993924",
+        "LONGITUD": "-3.7189428",
+        "NOMBRE": "AVENIDA MANZANARES,108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7312348,
+          40.3974061
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020023AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "CALLE",
+        "DIRECCION": "CARLOS DABAN",
+        "NUMERO": "30",
+        "COORD UTM ETRS89 X": "437945.09",
+        "COORD UTM ETRS89 Y": "4472123.57",
+        "FECHA PUESTA EN SERVICIO": "20/04/2018",
+        "LATITUD": "40.3974061",
+        "LONGITUD": "-3.7312348",
+        "NOMBRE": "CALLE CARLOS DABAN,30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7155009,
+          40.3973323
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020016AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "MARQUES DE VADILLO",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "439280.27",
+        "COORD UTM ETRS89 Y": "4472104.45",
+        "FECHA PUESTA EN SERVICIO": "23/04/2018",
+        "LATITUD": "40.3973323",
+        "LONGITUD": "-3.7155009",
+        "NOMBRE": "GLORIETA MARQUES DE VADILLO,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7233829,
+          40.402908
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020005AS",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "TRAVESIA",
+        "DIRECCION": "IVAN DE VARGAS",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "438616.43",
+        "COORD UTM ETRS89 Y": "4472728.79",
+        "FECHA PUESTA EN SERVICIO": "24/04/2018",
+        "LATITUD": "40.402908",
+        "LONGITUD": "-3.7233829",
+        "NOMBRE": "TRAVESIA IVAN DE VARGAS,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7119695,
+          40.3778878
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020114ASW",
+        "CODIGO J.M.": "12",
+        "DISTRITO": "USERA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "RAFAELA YBARRA",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "PARQUE DE PRADOLONGO",
+        "COORD UTM ETRS89 X": "439562.58",
+        "COORD UTM ETRS89 Y": "4469943.71",
+        "FECHA PUESTA EN SERVICIO": "19/01/2017",
+        "LATITUD": "40.3778878",
+        "LONGITUD": "-3.7119695",
+        "NOMBRE": "AVENIDA RAFAELA YBARRA,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6903775,
+          40.3787329
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020017ASW",
+        "CODIGO J.M.": "12",
+        "DISTRITO": "USERA",
+        "VIAL": "CALLE",
+        "DIRECCION": "CAMINO DE PERALES",
+        "NUMERO": "48",
+        "ANT/DES/ESQ. ": "PARQUE LINEAL DEL MANZANARES",
+        "COORD UTM ETRS89 X": "441396.22",
+        "COORD UTM ETRS89 Y": "4470022.98",
+        "FECHA PUESTA EN SERVICIO": "05/06/2017",
+        "LATITUD": "40.3787329",
+        "LONGITUD": "-3.6903775",
+        "NOMBRE": "CALLE CAMINO DE PERALES,48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7001488,
+          40.3794629
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020021AS",
+        "CODIGO J.M.": "12",
+        "DISTRITO": "USERA",
+        "VIAL": "CALLE",
+        "DIRECCION": "TOMELLOSO",
+        "NUMERO": "63",
+        "COORD UTM ETRS89 X": "440567.40",
+        "COORD UTM ETRS89 Y": "4470110.53",
+        "FECHA PUESTA EN SERVICIO": "20/11/2017",
+        "LATITUD": "40.3794629",
+        "LONGITUD": "-3.7001488",
+        "NOMBRE": "CALLE TOMELLOSO,63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.699272,
+          40.389593
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020125AS",
+        "CODIGO J.M.": "12",
+        "DISTRITO": "USERA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MANZANARES",
+        "NUMERO": "218",
+        "ANT/DES/ESQ. ": "CERCANO A QUIOSCO \"PRINCESA\"",
+        "COORD UTM ETRS89 X": "440650.72",
+        "COORD UTM ETRS89 Y": "4471234.37",
+        "FECHA PUESTA EN SERVICIO": "19/03/2018",
+        "LATITUD": "40.389593",
+        "LONGITUD": "-3.699272",
+        "NOMBRE": "AVENIDA MANZANARES,218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.669491,
+          40.3983008
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020085ASW",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "ALBUFERA",
+        "NUMERO": "1",
+        "ANT/DES/ESQ. ": "CALLE 30",
+        "COORD UTM ETRS89 X": "443185.66",
+        "COORD UTM ETRS89 Y": "4472181.37",
+        "FECHA PUESTA EN SERVICIO": "23/09/2016",
+        "LATITUD": "40.3983008",
+        "LONGITUD": "-3.669491",
+        "NOMBRE": "AVENIDA ALBUFERA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6249841,
+          40.3822601
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020087AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "DEMOCRACIA",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "446950.04",
+        "COORD UTM ETRS89 Y": "4470373.22",
+        "FECHA PUESTA EN SERVICIO": "19/01/2017",
+        "LATITUD": "40.3822601",
+        "LONGITUD": "-3.6249841",
+        "NOMBRE": "AVENIDA DEMOCRACIA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6691873,
+          40.3811817
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020088AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "MANCHA",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "443197.05",
+        "COORD UTM ETRS89 Y": "4470280.97",
+        "FECHA PUESTA EN SERVICIO": "23/10/2017",
+        "LATITUD": "40.3811817",
+        "LONGITUD": "-3.6691873",
+        "NOMBRE": "CALLE MANCHA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6461615,
+          40.3905035
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020086AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "SANTILLANA DEL MAR",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "445159.14",
+        "COORD UTM ETRS89 Y": "4471301.14",
+        "FECHA PUESTA EN SERVICIO": "05/03/2018",
+        "LATITUD": "40.3905035",
+        "LONGITUD": "-3.6461615",
+        "NOMBRE": "CALLE SANTILLANA DEL MAR,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6543842,
+          40.3918077
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020089AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "PIO FELIPE",
+        "NUMERO": "42",
+        "COORD UTM ETRS89 X": "444462.33",
+        "COORD UTM ETRS89 Y": "4471451.04",
+        "FECHA PUESTA EN SERVICIO": "04/04/2018",
+        "LATITUD": "40.3918077",
+        "LONGITUD": "-3.6543842",
+        "NOMBRE": "CALLE PIO FELIPE,42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6434788,
+          40.3810206
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020056AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "ARAGONESES",
+        "NUMERO": "8",
+        "COORD UTM ETRS89 X": "445379.16",
+        "COORD UTM ETRS89 Y": "4470246.89",
+        "FECHA PUESTA EN SERVICIO": "21/09/2018",
+        "LATITUD": "40.3810206",
+        "LONGITUD": "-3.6434788",
+        "NOMBRE": "CALLE ARAGONESES,8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6347667,
+          40.388695
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020127AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MIGUEL HERNANDEZ",
+        "NUMERO": "48",
+        "COORD UTM ETRS89 X": "446124.80",
+        "COORD UTM ETRS89 Y": "4471093.39",
+        "FECHA PUESTA EN SERVICIO": "26/07/2018",
+        "LATITUD": "40.388695",
+        "LONGITUD": "-3.6347667",
+        "NOMBRE": "AVENIDA MIGUEL HERNANDEZ,48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6406412,
+          40.4099009
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020050AS",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "DOCTOR GARCIA TAPIA",
+        "NUMERO": "127",
+        "COORD UTM ETRS89 X": "445643.26",
+        "COORD UTM ETRS89 Y": "4473450.83",
+        "FECHA PUESTA EN SERVICIO": "20/11/2017",
+        "LATITUD": "40.4099009",
+        "LONGITUD": "-3.6406412",
+        "NOMBRE": "AVENIDA DOCTOR GARCIA TAPIA,127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6343126,
+          40.4004954
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020084AS",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "CALLE",
+        "DIRECCION": "HACIENDA DE PAVONES",
+        "NUMERO": "231",
+        "COORD UTM ETRS89 X": "446172.74",
+        "COORD UTM ETRS89 Y": "4472402.95",
+        "FECHA PUESTA EN SERVICIO": "13/12/2017",
+        "LATITUD": "40.4004954",
+        "LONGITUD": "-3.6343126",
+        "NOMBRE": "CALLE HACIENDA DE PAVONES,231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6305177,
+          40.4044605
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020077AS",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "CALLE",
+        "DIRECCION": "LAGUNA NEGRA",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "446497.91",
+        "COORD UTM ETRS89 Y": "4472840.77",
+        "FECHA PUESTA EN SERVICIO": "15/02/2018",
+        "LATITUD": "40.4044605",
+        "LONGITUD": "-3.6305177",
+        "NOMBRE": "CALLE LAGUNA NEGRA,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6501139,
+          40.4060547
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020083AS",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MORATALAZ",
+        "NUMERO": "70",
+        "COORD UTM ETRS89 X": "444836.38",
+        "COORD UTM ETRS89 Y": "4473029.77",
+        "FECHA PUESTA EN SERVICIO": "24/05/2018",
+        "LATITUD": "40.4060547",
+        "LONGITUD": "-3.6501139",
+        "NOMBRE": "AVENIDA MORATALAZ,70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.633195,
+          40.4113266
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020015AS",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "CALLE",
+        "DIRECCION": "JOSE BERGAMIN",
+        "NUMERO": "7",
+        "COORD UTM ETRS89 X": "446276.19",
+        "COORD UTM ETRS89 Y": "4473604.52",
+        "FECHA PUESTA EN SERVICIO": "04/07/2018",
+        "LATITUD": "40.4113266",
+        "LONGITUD": "-3.633195",
+        "NOMBRE": "CALLE JOSE BERGAMIN,7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6389139,
+          40.4380587
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020042ASW",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE",
+        "DIRECCION": "MISTERIOS",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "445812.42",
+        "COORD UTM ETRS89 Y": "4476575.27",
+        "FECHA PUESTA EN SERVICIO": "16/01/2017",
+        "LATITUD": "40.4380587",
+        "LONGITUD": "-3.6389139",
+        "NOMBRE": "CALLE MISTERIOS,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6494816,
+          40.4410565
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020062AS",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE",
+        "DIRECCION": "JUAN PEREZ ZUÑIGA",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "444918.59",
+        "COORD UTM ETRS89 Y": "4476914.56",
+        "FECHA PUESTA EN SERVICIO": "25/01/2018",
+        "LATITUD": "40.4410565",
+        "LONGITUD": "-3.6494816",
+        "NOMBRE": "CALLE JUAN PEREZ ZUÑIGA,2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6576172,
+          40.4354153
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020061AS",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE",
+        "DIRECCION": "VIRGEN DE LA ROCA",
+        "NUMERO": "20",
+        "COORD UTM ETRS89 X": "444223.96",
+        "COORD UTM ETRS89 Y": "4476293.49",
+        "FECHA PUESTA EN SERVICIO": "06/02/2018",
+        "LATITUD": "40.4354153",
+        "LONGITUD": "-3.6576172",
+        "NOMBRE": "CALLE VIRGEN DE LA ROCA,20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6488699,
+          40.4356482
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020124AS",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE",
+        "DIRECCION": "VIRGEN DEL SAGRARIO",
+        "NUMERO": "20",
+        "COORD UTM ETRS89 X": "444966.06",
+        "COORD UTM ETRS89 Y": "4476313.86",
+        "FECHA PUESTA EN SERVICIO": "07/08/2018",
+        "LATITUD": "40.4356482",
+        "LONGITUD": "-3.6488699",
+        "NOMBRE": "CALLE VIRGEN DEL SAGRARIO,20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6239308,
+          40.4562537
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020058AS",
+        "CODIGO J.M.": "16",
+        "DISTRITO": "HORTALEZA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "MACHUPICHU",
+        "NUMERO": "9",
+        "COORD UTM ETRS89 X": "447097.44",
+        "COORD UTM ETRS89 Y": "4478585.83",
+        "FECHA PUESTA EN SERVICIO": "07/12/2017",
+        "LATITUD": "40.4562537",
+        "LONGITUD": "-3.6239308",
+        "NOMBRE": "AVENIDA MACHUPICHU,9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6496442,
+          40.4787054
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020069AS",
+        "CODIGO J.M.": "16",
+        "DISTRITO": "HORTALEZA",
+        "VIAL": "CALLE",
+        "DIRECCION": "SANTA ADELA",
+        "NUMERO": "14",
+        "COORD UTM ETRS89 X": "444935.55",
+        "COORD UTM ETRS89 Y": "4481093.69",
+        "FECHA PUESTA EN SERVICIO": "14/12/2017",
+        "LATITUD": "40.4787054",
+        "LONGITUD": "-3.6496442",
+        "NOMBRE": "CALLE SANTA ADELA,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6626997,
+          40.4768259
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020075AS",
+        "CODIGO J.M.": "16",
+        "DISTRITO": "HORTALEZA",
+        "VIAL": "CALLE",
+        "DIRECCION": "BACARES",
+        "NUMERO": "24",
+        "COORD UTM ETRS89 X": "443827.38",
+        "COORD UTM ETRS89 Y": "4480893.30",
+        "FECHA PUESTA EN SERVICIO": "30/10/2018",
+        "LATITUD": "40.4768259",
+        "LONGITUD": "-3.6626997",
+        "NOMBRE": "CALLE BACARES,24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6925798,
+          40.3500832
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020126AS",
+        "CODIGO J.M.": "17",
+        "DISTRITO": "VILLAVERDE",
+        "VIAL": "CALLE",
+        "DIRECCION": "SANTA PETRONILA",
+        "NUMERO": "15",
+        "ANT/DES/ESQ. ": "INTERCAMBIADOR VILLAVERDE",
+        "COORD UTM ETRS89 X": "441184.37",
+        "COORD UTM ETRS89 Y": "4466844.37",
+        "FECHA PUESTA EN SERVICIO": "13/02/2017",
+        "LATITUD": "40.3500832",
+        "LONGITUD": "-3.6925798",
+        "NOMBRE": "CALLE SANTA PETRONILA,15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7091292,
+          40.3464892
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020130AS",
+        "CODIGO J.M.": "17",
+        "DISTRITO": "VILLAVERDE",
+        "VIAL": "PLAZA",
+        "DIRECCION": "AGATA",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "439775.75",
+        "COORD UTM ETRS89 Y": "4466456.57",
+        "FECHA PUESTA EN SERVICIO": "27/02/2017",
+        "LATITUD": "40.3464892",
+        "LONGITUD": "-3.7091292",
+        "NOMBRE": "PLAZA AGATA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7155622,
+          40.34648
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020123AS",
+        "CODIGO J.M.": "17",
+        "DISTRITO": "VILLAVERDE",
+        "VIAL": "CALLE",
+        "DIRECCION": "ENCARNACION DEL PINO",
+        "NUMERO": "29",
+        "COORD UTM ETRS89 X": "439229.40",
+        "COORD UTM ETRS89 Y": "4466459.95",
+        "FECHA PUESTA EN SERVICIO": "20/12/2017",
+        "LATITUD": "40.34648",
+        "LONGITUD": "-3.7155622",
+        "NOMBRE": "CALLE ENCARNACION DEL PINO,29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6938713,
+          40.3606946
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020122AS",
+        "CODIGO J.M.": "17",
+        "DISTRITO": "VILLAVERDE",
+        "VIAL": "PASEO",
+        "DIRECCION": "GIGANTES Y CABEZUDOS",
+        "NUMERO": "4",
+        "COORD UTM ETRS89 X": "441083.93",
+        "COORD UTM ETRS89 Y": "4468023.08",
+        "FECHA PUESTA EN SERVICIO": "20/02/2018",
+        "LATITUD": "40.3606946",
+        "LONGITUD": "-3.6938713",
+        "NOMBRE": "PASEO GIGANTES Y CABEZUDOS,4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6082083,
+          40.3866037
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020115AS",
+        "CODIGO J.M.": "18",
+        "DISTRITO": "VILLA DE VALLECAS   ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "SANTA EUGENIA",
+        "NUMERO": "79",
+        "COORD UTM ETRS89 X": "448377.33",
+        "COORD UTM ETRS89 Y": "4470845.42",
+        "FECHA PUESTA EN SERVICIO": "28/12/2016",
+        "LATITUD": "40.3866037",
+        "LONGITUD": "-3.6082083",
+        "NOMBRE": "AVENIDA SANTA EUGENIA,79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6182429,
+          40.3716035
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020116AS",
+        "CODIGO J.M.": "18",
+        "DISTRITO": "VILLA DE VALLECAS   ",
+        "VIAL": "CALLE",
+        "DIRECCION": "SIERRA DE TORTEJADA",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "447513.99",
+        "COORD UTM ETRS89 Y": "4469186.33",
+        "FECHA PUESTA EN SERVICIO": "01/02/2018",
+        "LATITUD": "40.3716035",
+        "LONGITUD": "-3.6182429",
+        "NOMBRE": "CALLE SIERRA DE TORTEJADA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5992764,
+          40.3631912
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020072AS",
+        "CODIGO J.M.": "18",
+        "DISTRITO": "VILLA DE VALLECAS   ",
+        "VIAL": "CALLE",
+        "DIRECCION": "CAÑADA DEL SANTISIMO",
+        "NUMERO": "45",
+        "COORD UTM ETRS89 X": "449117.84",
+        "COORD UTM ETRS89 Y": "4468241.49",
+        "FECHA PUESTA EN SERVICIO": "30/11/2018",
+        "LATITUD": "40.3631912",
+        "LONGITUD": "-3.5992764",
+        "NOMBRE": "CALLE CAÑADA DEL SANTISIMO,45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6081411,
+          40.4044056
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020121AS",
+        "CODIGO J.M.": "19",
+        "DISTRITO": "VICALVARO",
+        "VIAL": "CALLE",
+        "DIRECCION": "VILLARDONDIEGO",
+        "NUMERO": "41",
+        "COORD UTM ETRS89 X": "448396.63",
+        "COORD UTM ETRS89 Y": "4472821.37",
+        "FECHA PUESTA EN SERVICIO": "30/10/2017",
+        "LATITUD": "40.4044056",
+        "LONGITUD": "-3.6081411",
+        "NOMBRE": "CALLE VILLARDONDIEGO,41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6147439,
+          40.3958878
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020057AS",
+        "CODIGO J.M.": "19",
+        "DISTRITO": "VICALVARO",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "COMUNIDADES",
+        "NUMERO": "5",
+        "ANT/DES/ESQ. ": "PARQUE DE VALDEBERNARDO",
+        "COORD UTM ETRS89 X": "447829.78",
+        "COORD UTM ETRS89 Y": "4471879.78",
+        "FECHA PUESTA EN SERVICIO": "27/12/2017",
+        "LATITUD": "40.3958878",
+        "LONGITUD": "-3.6147439",
+        "NOMBRE": "AVENIDA COMUNIDADES,5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6223531,
+          40.3981196
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020119AS",
+        "CODIGO J.M.": "19",
+        "DISTRITO": "VICALVARO",
+        "VIAL": "BULEVAR",
+        "DIRECCION": "JOSE PRAT",
+        "NUMERO": "19",
+        "COORD UTM ETRS89 X": "447185.76",
+        "COORD UTM ETRS89 Y": "4472132.02",
+        "FECHA PUESTA EN SERVICIO": "02/01/2018",
+        "LATITUD": "40.3981196",
+        "LONGITUD": "-3.6223531",
+        "NOMBRE": "BULEVAR JOSE PRAT,19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5967811,
+          40.4017174
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020120AS",
+        "CODIGO J.M.": "19",
+        "DISTRITO": "VICALVARO",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "GRAN VIA DEL ESTE",
+        "NUMERO": "14",
+        "COORD UTM ETRS89 X": "449358.57",
+        "COORD UTM ETRS89 Y": "4472516.41",
+        "FECHA PUESTA EN SERVICIO": "13/02/2018",
+        "LATITUD": "40.4017174",
+        "LONGITUD": "-3.5967811",
+        "NOMBRE": "AVENIDA GRAN VIA DEL ESTE,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5983769,
+          40.4054426
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020079AS",
+        "CODIGO J.M.": "19",
+        "DISTRITO": "VICALVARO",
+        "VIAL": "CALLE",
+        "DIRECCION": "PEDERNAL",
+        "NUMERO": "1",
+        "COORD UTM ETRS89 X": "449225.95",
+        "COORD UTM ETRS89 Y": "4472930.82",
+        "FECHA PUESTA EN SERVICIO": "15/02/2018",
+        "LATITUD": "40.4054426",
+        "LONGITUD": "-3.5983769",
+        "NOMBRE": "CALLE PEDERNAL,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6230469,
+          40.4175497
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020105AS",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "PLAZA",
+        "DIRECCION": "ALSACIA",
+        "NUMERO": "1",
+        "ANT/DES/ESQ. ": "INTERCAMBIADOR ALSACIA",
+        "COORD UTM ETRS89 X": "447142.09",
+        "COORD UTM ETRS89 Y": "4474289.16",
+        "FECHA PUESTA EN SERVICIO": "05/12/2016",
+        "LATITUD": "40.4175497",
+        "LONGITUD": "-3.6230469",
+        "NOMBRE": "PLAZA ALSACIA,1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6092966,
+          40.4488915
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020101ASW",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "CALLE",
+        "DIRECCION": "ALCALÁ",
+        "NUMERO": "632",
+        "ANT/DES/ESQ. ": "INTERCAMBIADOR CANILLEJAS",
+        "COORD UTM ETRS89 X": "448332.63",
+        "COORD UTM ETRS89 Y": "4477759.96",
+        "FECHA PUESTA EN SERVICIO": "19/12/2016",
+        "LATITUD": "40.4488915",
+        "LONGITUD": "-3.6092966",
+        "NOMBRE": "CALLE ALCALÁ,632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.607124,
+          40.429708
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020104AS",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "NIZA",
+        "NUMERO": "37",
+        "COORD UTM ETRS89 X": "448502.23",
+        "COORD UTM ETRS89 Y": "4475629.32",
+        "FECHA PUESTA EN SERVICIO": "13/11/2017",
+        "LATITUD": "40.429708",
+        "LONGITUD": "-3.607124",
+        "NOMBRE": "AVENIDA NIZA,37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6040739,
+          40.4242735
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020100AS",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "CALLE",
+        "DIRECCION": "SUECIA",
+        "NUMERO": "33",
+        "ANT/DES/ESQ. ": "PLAZA DE GINEBRA",
+        "COORD UTM ETRS89 X": "448756.83",
+        "COORD UTM ETRS89 Y": "4475024.32",
+        "FECHA PUESTA EN SERVICIO": "22/11/2017",
+        "LATITUD": "40.4242735",
+        "LONGITUD": "-3.6040739",
+        "NOMBRE": "CALLE SUECIA,33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617583,
+          40.4435404
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020118AS",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "CALLE",
+        "DIRECCION": "ALCALÁ",
+        "NUMERO": "548",
+        "ANT/DES/ESQ. ": "EN ACCESO A PARQUE DE TORRE ARIAS",
+        "COORD UTM ETRS89 X": "447625.80",
+        "COORD UTM ETRS89 Y": "4477170.87",
+        "FECHA PUESTA EN SERVICIO": "19/12/2017",
+        "LATITUD": "40.4435404",
+        "LONGITUD": "-3.617583",
+        "NOMBRE": "CALLE ALCALÁ,548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6009885,
+          40.4333204
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020066ASW",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "ARCENTALES",
+        "NUMERO": "39",
+        "ANT/DES/ESQ. ": "ESTADIO METROPOLITANO",
+        "COORD UTM ETRS89 X": "449025.39",
+        "COORD UTM ETRS89 Y": "4476026.74",
+        "FECHA PUESTA EN SERVICIO": "24/01/2018",
+        "LATITUD": "40.4333204",
+        "LONGITUD": "-3.6009885",
+        "NOMBRE": "AVENIDA ARCENTALES,39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6282427,
+          40.4406352
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020028AS",
+        "CODIGO J.M.": "20",
+        "DISTRITO": "SAN BLAS-CANILLEJAS ",
+        "VIAL": "CALLE",
+        "DIRECCION": "ALCALÁ",
+        "NUMERO": "502",
+        "ANT/DES/ESQ. ": "EN ACCESO A PARQUE DE QUINTA DE LOS MOLINOS",
+        "COORD UTM ETRS89 X": "446719.51",
+        "COORD UTM ETRS89 Y": "4476854.77",
+        "FECHA PUESTA EN SERVICIO": "14/05/2018",
+        "LATITUD": "40.4406352",
+        "LONGITUD": "-3.6282427",
+        "NOMBRE": "CALLE ALCALÁ,502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6003994,
+          40.4634982
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020011AS",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "PARQUE",
+        "DIRECCION": "DE LAS NACIONES",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "PASEO DE PRIMAVERA",
+        "COORD UTM ETRS89 X": "449098.13",
+        "COORD UTM ETRS89 Y": "4479376.13",
+        "FECHA PUESTA EN SERVICIO": "28/09/2016",
+        "LATITUD": "40.4634982",
+        "LONGITUD": "-3.6003994",
+        "NOMBRE": "PARQUE DE LAS NACIONES,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6068332,
+          40.4622527
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020012ASW",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "PARQUE",
+        "DIRECCION": "DE LAS NACIONES",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "PASEO CENTRAL",
+        "COORD UTM ETRS89 X": "448551.72",
+        "COORD UTM ETRS89 Y": "4479241.61",
+        "FECHA PUESTA EN SERVICIO": "24/10/2016",
+        "LATITUD": "40.4622527",
+        "LONGITUD": "-3.6068332",
+        "NOMBRE": "PARQUE DE LAS NACIONES,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6085971,
+          40.4564581
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020129AS",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "PARQUE",
+        "DIRECCION": "DE LAS NACIONES",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "OESTE AUDITORIO",
+        "COORD UTM ETRS89 X": "448397.74",
+        "COORD UTM ETRS89 Y": "4478599.44",
+        "FECHA PUESTA EN SERVICIO": "24/10/2016",
+        "LATITUD": "40.4564581",
+        "LONGITUD": "-3.6085971",
+        "NOMBRE": "PARQUE DE LAS NACIONES,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5837345,
+          40.475635
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020128AS",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "PLAYA DE RIAZOR",
+        "NUMERO": "45",
+        "COORD UTM ETRS89 X": "450519.90",
+        "COORD UTM ETRS89 Y": "4480713.84",
+        "FECHA PUESTA EN SERVICIO": "09/03/2018",
+        "LATITUD": "40.475635",
+        "LONGITUD": "-3.5837345",
+        "NOMBRE": "CALLE PLAYA DE RIAZOR,45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5996074,
+          40.4544636
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020024AS",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "PASEO",
+        "DIRECCION": "ALAMEDA DE OSUNA",
+        "NUMERO": "48",
+        "COORD UTM ETRS89 X": "449158.47",
+        "COORD UTM ETRS89 Y": "4478372.84",
+        "FECHA PUESTA EN SERVICIO": "10/03/2018",
+        "LATITUD": "40.4544636",
+        "LONGITUD": "-3.5996074",
+        "NOMBRE": "PASEO ALAMEDA DE OSUNA,48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.660857,
+          40.438736
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020038AS",
+        "CODIGO J.M.": "4",
+        "DISTRITO": "SALAMANCA",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "BRASILIA",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "FRENTE NÚMERO 13",
+        "COORD UTM ETRS89 X": "443950.91",
+        "COORD UTM ETRS89 Y": "4476665.06",
+        "FECHA PUESTA EN SERVICIO": "29/10/2019",
+        "LATITUD": "40.4387360",
+        "LONGITUD": "-3.6608570",
+        "NOMBRE": "AVENIDA DE BRASILIA, 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.784945,
+          40.448975
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020082AS",
+        "CODIGO J.M.": "9",
+        "DISTRITO": "MONCLOA-ARAVACA     ",
+        "VIAL": "CALLE",
+        "DIRECCION": "GOLONDRINA",
+        "NUMERO": "1E",
+        "COORD UTM ETRS89 X": "433437.88",
+        "COORD UTM ETRS89 Y": "4477886.79",
+        "FECHA PUESTA EN SERVICIO": "04/03/2020",
+        "LATITUD": "40.448975",
+        "LONGITUD": "-3.784945",
+        "NOMBRE": "CALLE GOLONDRINA 1E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.640108,
+          40.430306
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020091AS",
+        "CODIGO J.M.": "15",
+        "DISTRITO": "CIUDAD LINEAL",
+        "VIAL": "CALLE ",
+        "DIRECCION": "ASCAO",
+        "NUMERO": "31",
+        "COORD UTM ETRS89 X": "445704.90",
+        "COORD UTM ETRS89 Y": "4475715.43",
+        "FECHA PUESTA EN SERVICIO": "15/07/2020",
+        "LATITUD": "40.430306",
+        "LONGITUD": "-3.640108",
+        "NOMBRE": "CALLE ASCAO FNº31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7040353,
+          40.41448
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020041AS",
+        "CODIGO J.M.": "13",
+        "DISTRITO": "PUENTE DE VALLECAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "BENJAMIN PALENCIA",
+        "NUMERO": "2",
+        "COORD UTM ETRS89 X": "440268.44",
+        "COORD UTM ETRS89 Y": "4474000.04",
+        "FECHA PUESTA EN SERVICIO": "07/12/2022",
+        "LATITUD": "40.414480",
+        "LONGITUD": "-3.7040353",
+        "NOMBRE": "CALLE BENJAMIN PALENCIA, 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.624675,
+          40.372793
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020032ASW",
+        "CODIGO J.M.": "18",
+        "DISTRITO": "VILLA DE VALLECAS   ",
+        "VIAL": "GLORIETA",
+        "DIRECCION": "GRANJUELA",
+        "NUMERO": "S/N",
+        "COORD UTM ETRS89 X": "446966.45",
+        "COORD UTM ETRS89 Y": "4469399.28",
+        "FECHA PUESTA EN SERVICIO": "27/12/2023",
+        "LATITUD": "40.372793",
+        "LONGITUD": "-3.624675",
+        "NOMBRE": "GLORIETA DE LA GRANJUELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74501,
+          40.379242
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020046ASW",
+        "CODIGO J.M.": "11",
+        "DISTRITO": "CARABANCHEL",
+        "VIAL": "CALLE",
+        "DIRECCION": "CONDE DE MORPHY",
+        "NUMERO": "S/N",
+        "COORD UTM ETRS89 X": "436756.22",
+        "COORD UTM ETRS89 Y": "4470194.24",
+        "FECHA PUESTA EN SERVICIO": "08/05/2024",
+        "LATITUD": "40.379242",
+        "LONGITUD": "-3.745010",
+        "NOMBRE": "CALLE CONDE DE MORPHY, S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.609578,
+          40.461062
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020031ASW",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "PARQUE",
+        "DIRECCION": "DE LAS NACIONES",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "PARADA TREN",
+        "COORD UTM ETRS89 X": "448315.75",
+        "COORD UTM ETRS89 Y": "4479188.41",
+        "FECHA PUESTA EN SERVICIO": "04/07/2024",
+        "LATITUD": "40.461062",
+        "LONGITUD": "-3.609578",
+        "NOMBRE": "PARQUE DE LAS NACIONES,S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63133,
+          40.467926
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020019ASW",
+        "CODIGO J.M.": "16",
+        "DISTRITO": "HORTALEZA",
+        "VIAL": "CALLE",
+        "DIRECCION": "PEDROÑERAS",
+        "NUMERO": "50",
+        "COORD UTM ETRS89 X": "446476.90",
+        "COORD UTM ETRS89 Y": "4479963.30",
+        "FECHA PUESTA EN SERVICIO": "10/05/2024",
+        "LATITUD": "40.467926",
+        "LONGITUD": "-3.631330",
+        "NOMBRE": "CALLE PEDROÑERAS, 50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.639881,
+          40.403273
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020018ASW",
+        "CODIGO J.M.": "14",
+        "DISTRITO": "MORATALAZ",
+        "VIAL": "CALLE",
+        "DIRECCION": "HACIENDA DE PAVONES",
+        "NUMERO": "125",
+        "ANT/DES/ESQ. ": "ANFEVI",
+        "COORD UTM ETRS89 X": "445699.98",
+        "COORD UTM ETRS89 Y": "4472791.85",
+        "FECHA PUESTA EN SERVICIO": "06/03/2025",
+        "LATITUD": "40.403273",
+        "LONGITUD": "-3.639881",
+        "NOMBRE": "CALLE HACIENDA DE PAVONES,125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.578152,
+          40.470483
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020020ASW",
+        "CODIGO J.M.": "21",
+        "DISTRITO": "BARAJAS",
+        "VIAL": "CALLE",
+        "DIRECCION": "AYERBE",
+        "NUMERO": "S/N",
+        "COORD UTM ETRS89 X": "450987.13",
+        "COORD UTM ETRS89 Y": "4480216.25",
+        "FECHA PUESTA EN SERVICIO": "04/07/2025",
+        "LATITUD": "40.470483",
+        "LONGITUD": "-3.578152",
+        "NOMBRE": "CALLE AYERBE, S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71147,
+          40.38277
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020060ASW",
+        "CODIGO J.M.": "12",
+        "DISTRITO": "USERA",
+        "VIAL": "CALLE",
+        "DIRECCION": "FORNILLOS",
+        "NUMERO": "S/N",
+        "ANT/DES/ESQ. ": "FRENTE NUMERO 58",
+        "COORD UTM ETRS89 X": "439606.60",
+        "COORD UTM ETRS89 Y": "4470562.41",
+        "FECHA PUESTA EN SERVICIO": "06/11/2025",
+        "LATITUD": "40.38277",
+        "LONGITUD": "-3.71147",
+        "NOMBRE": "CALLE FORNILLOS, S/N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.687496,
+          40.459067
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020103AS",
+        "CODIGO J.M.": "5",
+        "DISTRITO": "CHAMARTIN",
+        "VIAL": "AVENIDA",
+        "DIRECCION": "ALBERTO ALCOCER",
+        "NUMERO": "9B",
+        "COORD UTM ETRS89 X": "441707.55",
+        "COORD UTM ETRS89 Y": "4479015.49",
+        "LATITUD": "40.459067",
+        "LONGITUD": "-3.687496",
+        "NOMBRE": "AVENIDA ALBERTO ALCOCER, 9B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.762841,
+          40.374201
+        ]
+      },
+      "properties": {
+        "CODIGO ASEO": "020117ASW",
+        "CODIGO J.M.": "10",
+        "DISTRITO": "LATINA",
+        "VIAL": "CALLE",
+        "DIRECCION": "MUNTADAS",
+        "NUMERO": "11",
+        "COORD UTM ETRS89 X": "435237.70",
+        "COORD UTM ETRS89 Y": "4469647.58",
+        "FECHA PUESTA EN SERVICIO": "10/04/2026",
+        "LATITUD": "40.374201",
+        "LONGITUD": "-3.762841",
+        "NOMBRE": "CALLE MUNTADAS, 11"
+      }
+    }
+  ]
+}
